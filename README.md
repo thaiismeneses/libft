@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src=" ###" alt="libft">
+    <img src="img/LIBFT.png" alt="libft">
   </a>
 </p>
 
